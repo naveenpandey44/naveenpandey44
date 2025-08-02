@@ -34,24 +34,25 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveenpandey2004&show_icons=true&theme=tokyonight" alt="Naveen's GitHub Stats" />
+  <img src="https://github-readme-stats-lowlighter.vercel.app/api?username=naveenpandey2004&show_icons=true&theme=tokyonight" alt="Naveen's GitHub Stats" />
   <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenpandey2004&theme=tokyonight" alt="Naveen's GitHub Streak" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenpandey2004&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-lowlighter.vercel.app/api/top-langs/?username=naveenpandey2004&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 ---
 
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href=www.linkedin.com/in/naveen-kumar-9012492b9>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/naveen-kumar-9012492b9" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:naveen26gu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
