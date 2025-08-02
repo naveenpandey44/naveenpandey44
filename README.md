@@ -5,51 +5,58 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm a 4th year B.Tech student in **Computer Science (AI & ML)** at **Galgotias University**.
-- 💻 I specialize in **MERN Stack** and **Java + Spring Boot** backend development.
-- 🌱 Currently learning: `Spring Boot`, `Microservices`, and `System Design`.
-- 👨‍💻 I love building real-world projects and solving coding challenges.
-- 💡 Passionate about learning, building, and contributing to meaningful tech solutions.
-- 🚀 Actively participating in **hackathons** and **open source contributions**.
+- 🎓 Final-year B.Tech student majoring in **Computer Science (AI & ML)** at **Galgotias University**.  
+- 💻 Skilled in **Full Stack Development** using the **MERN Stack** and **Java + Spring Boot**.  
+- 🌱 Continuously learning advanced backend frameworks and real-world architecture patterns.
+- 🚀 Passionate about building real-world applications, solving coding challenges, and exploring new tech.  
+- 👨‍💻 Regular hackathon participant and open-source contributor.  
+- 💡 Lifelong learner committed to continuous growth and innovation.  
 
 ---
 
-### 🚀 Tech Stack
+### ⚙️ Tech Stack
 
-**Languages & Frameworks:**
+#### **Languages & Frameworks**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
-**Tools & Platforms:**
+#### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveenpandey2004&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenpandey2004&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenpandey2004&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naveenpandey2004&show_icons=true&theme=tokyonight" alt="Naveen's GitHub Stats" />
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveenpandey2004&theme=tokyonight" alt="Naveen's GitHub Streak" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenpandey2004&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveenpandey2004/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:naveenpandey2004@gmail.com)
+<p align="center">
+  <a href=www.linkedin.com/in/naveen-kumar-9012492b9>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:naveen26gu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-⭐ **"Code with purpose, build with passion!"**
+<p align="center">
+  ⚡ Let's build something great together!
+</p>
